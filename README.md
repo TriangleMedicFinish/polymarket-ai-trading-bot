@@ -1,6 +1,6 @@
 <div align="center">
+  
 # Polymarket Trading Bot
-
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/be0b7072-1ff2-47b1-bb3e-93e05909bf0f" />
 
 **AI-assisted prediction market trading and wallet-based copy trading.**
